@@ -1,0 +1,53 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration": 66.0,
+  "shots": [
+    {"id": "hook",      "t0": 0.00,  "t1": 2.80,  "img": "f01_hero",       "zoom": [1.00, 1.10], "cx": [0.50, 0.50], "cy": [0.55, 0.50]},
+    {"id": "maint",     "t0": 2.80,  "t1": 7.40,  "img": "f02_maint",      "zoom": [1.18, 1.05], "cx": [0.50, 0.50], "cy": [0.32, 0.42], "flash": true, "chip": "MAINTENANCE"},
+    {"id": "stache",    "t0": 7.40,  "t1": 8.90,  "img": "f03_stache",     "zoom": [1.05, 1.16], "cx": [0.45, 0.42], "cy": [0.40, 0.34]},
+    {"id": "camo",      "t0": 8.90,  "t1": 10.80, "img": "f04_camo_phone", "zoom": [1.05, 1.18], "cx": [0.50, 0.48], "cy": [0.42, 0.36]},
+    {"id": "engineer",  "t0": 10.80, "t1": 14.40, "img": "f05_engineer",   "zoom": [1.15, 1.04], "cx": [0.50, 0.50], "cy": [0.30, 0.42], "flash": true, "chip": "ENGINEERING"},
+    {"id": "binder",    "t0": 14.40, "t1": 18.90, "img": "f06_binder",     "zoom": [1.02, 1.14], "cx": [0.45, 0.40], "cy": [0.50, 0.55], "fx": ["dust"]},
+    {"id": "manager",   "t0": 18.90, "t1": 22.70, "img": "f07_manager",    "zoom": [1.16, 1.04], "cx": [0.52, 0.52], "cy": [0.26, 0.40], "flash": true, "chip": "MANAGEMENT"},
+    {"id": "gesture",   "t0": 22.70, "t1": 25.70, "img": "f08_gesture",    "zoom": [1.18, 1.00], "cx": [0.50, 0.50], "cy": [0.45, 0.48]},
+    {"id": "noted",     "t0": 25.70, "t1": 29.40, "img": "f07_manager",    "zoom": [1.35, 1.55], "cx": [0.55, 0.60], "cy": [0.25, 0.27], "fx": ["notepad"]},
+    {"id": "dayshift",  "t0": 29.40, "t1": 32.80, "img": "f10_dayshift",   "zoom": [1.20, 1.06], "cx": [0.52, 0.52], "cy": [0.34, 0.42], "flash": true, "chip": "DAY SHIFT"},
+    {"id": "horrified", "t0": 32.80, "t1": 35.80, "img": "f11_horrified",  "zoom": [1.00, 1.30], "cx": [0.50, 0.50], "cy": [0.45, 0.40], "fx": ["darken", "punch"]},
+    {"id": "card247",   "t0": 35.80, "t1": 37.20, "card": "2:47 AM"},
+    {"id": "alarm",     "t0": 37.20, "t1": 41.70, "img": "f12_alarm",      "zoom": [1.12, 1.02], "cx": [0.50, 0.50], "cy": [0.45, 0.48], "fx": ["alarm", "shake"]},
+    {"id": "running",   "t0": 41.70, "t1": 44.60, "img": "f13_running",    "zoom": [1.00, 1.22], "cx": [0.50, 0.50], "cy": [0.45, 0.42], "fx": ["rain", "shake_small"]},
+    {"id": "valve",     "t0": 44.60, "t1": 47.60, "img": "f14_valve",      "zoom": [1.22, 1.06], "cx": [0.50, 0.50], "cy": [0.40, 0.45], "fx": ["rain", "steam", "shake"], "flash": true},
+    {"id": "stable",    "t0": 47.60, "t1": 52.00, "img": "f14_valve",      "zoom": [1.00, 1.08], "cx": [0.50, 0.50], "cy": [0.50, 0.45], "fx": ["rain_light"]},
+    {"id": "card600",   "t0": 52.00, "t1": 53.20, "card": "6:00 AM", "cardColor": "#ffb347"},
+    {"id": "sunrise",   "t0": 53.20, "t1": 57.20, "img": "f15_sunrise",    "zoom": [1.02, 1.12], "cx": [0.50, 0.50], "cy": [0.45, 0.35]},
+    {"id": "yep",       "t0": 57.20, "t1": 59.80, "img": "f16_yep",        "zoom": [1.00, 1.12], "cx": [0.50, 0.50], "cy": [0.42, 0.40]},
+    {"id": "end",       "t0": 59.80, "t1": 66.00, "img": "f17_hero_end",   "zoom": [1.14, 1.00], "cx": [0.50, 0.50], "cy": [0.55, 0.50], "flash": true, "fx": ["glow"]}
+  ],
+  "voice": [
+    {"t": 3.05,  "file": "L02_maint",  "text": "Must be nice. Y'all just sit in the AC all day."},
+    {"t": 7.50,  "file": "L03_stache", "text": "We're monitoring."},
+    {"t": 9.00,  "file": "L04_camo",   "text": "Heavily monitoring."},
+    {"t": 11.10, "file": "L05_eng",    "text": "Um... did you guys follow the procedure?"},
+    {"t": 14.55, "file": "L06_camo",   "text": "The one from 1987? With the coffee stain on step four?"},
+    {"t": 19.15, "file": "L07_mgr",    "text": "So... what exactly do operators do all night?"},
+    {"t": 25.85, "file": "L09_mgr",    "text": "Great. So... nothing. Noted."},
+    {"t": 29.60, "file": "L10_day",    "text": "Everything's running smooth! Should be a quiet night!"},
+    {"t": 32.95, "file": "L11_camo",   "text": "She said the Q-word."},
+    {"t": 37.45, "file": "L12_radio",  "text": "Board to outside! Unit just tripped! Need everybody out here, NOW!", "radio": true},
+    {"t": 41.85, "file": "L13_stache", "text": "Every. Single. Time!"},
+    {"t": 47.85, "file": "L14_radio",  "text": "Pump's back online. Unit's stable. Good work, fellas.", "radio": true},
+    {"t": 53.40, "file": "L15_maint",  "text": "Mornin'! Must be nice, just sittin' around all night."},
+    {"t": 60.30, "file": "L17_narr",   "text": "Operators. They don't do anything... until everything."}
+  ],
+  "texts": [
+    {"t0": 0.12,  "t1": 2.80,  "style": "title", "lines": ["HOW EVERYONE", "AT THE PLANT", "SEES OPERATORS"]},
+    {"t0": 22.85, "t1": 25.70, "style": "action", "lines": ["*gestures at the", "entire plant that", "didn't explode*"]},
+    {"t0": 44.75, "t1": 47.60, "style": "banner", "lines": ["WHAT OPERATORS", "ACTUALLY DO"]},
+    {"t0": 57.70, "t1": 59.80, "style": "caption_static", "lines": ["...yep."]},
+    {"t0": 64.70, "t1": 66.00, "style": "cta", "lines": ["TAG AN OPERATOR WHO'S", "\"JUST SITTING AROUND\""]}
+  ],
+  "highlight": ["nice.", "AC", "monitoring.", "Heavily", "procedure?", "1987?", "coffee", "stain", "do", "nothing.", "Noted.", "quiet", "Q-word.", "tripped!", "NOW!", "Every.", "Single.", "Time!", "stable.", "sittin'", "Operators.", "anything...", "everything."],
+  "danger": ["quiet", "Q-word.", "tripped!", "NOW!"]
+}
