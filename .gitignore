@@ -1,0 +1,6 @@
+node_modules/
+videos/*/output/preview/
+videos/*/output/video_only.mp4
+videos/*/output/render.log
+videos/*/audio/clean/*_radio_radio.wav
+videos/*/audio/mix.wav
