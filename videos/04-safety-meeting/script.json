@@ -1,0 +1,220 @@
+{
+ "title": "The Safety Meeting",
+ "frames": {
+  "A": {
+   "file": "a.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). A plant break room with folding tables. At the front, a plant manager in his 40s with neat gelled hair, a crisp white dress shirt, red tie and a spotless white hard hat proudly presents a projector screen showing a pie chart. A crew of plant operators sits at the tables with coffee and donuts, already bored, including a stocky guy in a camo trucker hat and camo pullover and a lean mustached guy in a black cap and light blue work shirt. Comedic. No text, no words, no logos, no captions."
+  },
+  "B": {
+   "file": "b.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). The same plant break room hours later: every operator slumped asleep, cobwebs hanging off them, a skeleton wearing a hard hat in one chair. a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots props his eyes open with toothpicks. a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers is asleep, drooling. The plant manager in a red tie still presents energetically at the projector. Comedic. No text, no words, no logos, no captions."
+  },
+  "C": {
+   "file": "c.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). a skinny nervous young process engineer with big round glasses, a spotless white hard hat, a tucked-in teal polo shirt and khakis sits at the back of a plant break room eagerly raising his hand high with a big hopeful smile, a notepad in his other hand. Comedic. No text, no words, no logos, no captions."
+  },
+  "D": {
+   "file": "d.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Inside a plant break room, every operator has turned around in their seat to glare at the camera with furious, murderous, glowing red eyes, dramatic dark lighting. In the front: a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots and a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers. Comedic. No text, no words, no logos, no captions."
+  },
+  "E": {
+   "file": "e.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots and a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers walk out of a plant break room happily, each carrying a whole box of donuts, big satisfied grins. Comedic. No text, no words, no logos, no captions."
+  }
+ },
+ "danger": [
+  "NOT",
+  "question!"
+ ],
+ "beats": [
+  {
+   "shot": "A",
+   "dur": 3.0,
+   "music": "comedy",
+   "zoom": [
+    1.05,
+    1.1
+   ],
+   "texts": [
+    {
+     "style": "title",
+     "lines": [
+      "THE SAFETY MEETING",
+      "ABOUT THE",
+      "SAFETY MEETING"
+     ],
+     "emoji": "🦺"
+    }
+   ]
+  },
+  {
+   "shot": "A",
+   "flash": true,
+   "zoom": [
+    1.2,
+    1.35
+   ],
+   "cx": [
+    0.5,
+    0.5
+   ],
+   "cy": [
+    0.3,
+    0.32
+   ],
+   "chip": {
+    "text": "👔 MANAGEMENT",
+    "bg": "#8e44ff",
+    "fg": "#fff"
+   },
+   "lines": [
+    {
+     "who": "mgr",
+     "text": "Alright everybody, this'll be quick."
+    }
+   ],
+   "texts": [
+    {
+     "style": "label",
+     "lines": [
+      "SLIDE 1 OF 87"
+     ],
+     "at_line": 0,
+     "offset": 0.6,
+     "y": 420,
+     "size": 70
+    }
+   ]
+  },
+  {
+   "card": "2 HOURS LATER",
+   "sub": "",
+   "color": "#ffffff",
+   "music": "none"
+  },
+  {
+   "shot": "B",
+   "music": "chill",
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "amb": [
+    {
+     "name": "snore",
+     "gain": 0.12
+    }
+   ],
+   "lines": [
+    {
+     "who": "mgr",
+     "text": "Slide forty-three. Ladders."
+    },
+    {
+     "who": "mgr",
+     "text": "Do NOT stand on the top rung.",
+     "say": "Do not stand on the top rung."
+    }
+   ],
+   "texts": [
+    {
+     "style": "label",
+     "lines": [
+      "SLIDE 43 OF 87"
+     ],
+     "y": 260,
+     "size": 70
+    }
+   ]
+  },
+  {
+   "shot": "C",
+   "music": "none",
+   "zoom": [
+    1.05,
+    1.18
+   ],
+   "texts": [
+    {
+     "style": "label",
+     "lines": [
+      "6:59 AM"
+     ],
+     "y": 260,
+     "color": "#ffe135"
+    }
+   ],
+   "lines": [
+    {
+     "who": "eng",
+     "text": "Quick question!",
+     "delay": 0.4
+    }
+   ],
+   "sfx": [
+    {
+     "name": "record_scratch",
+     "after_line": 0,
+     "offset": 0.05,
+     "gain": 0.35
+    }
+   ],
+   "post": 0.4
+  },
+  {
+   "shot": "D",
+   "punch": [
+    0.05
+   ],
+   "fx": [
+    "darken"
+   ],
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "amb": [
+    {
+     "name": "crickets",
+     "gain": 0.1
+    }
+   ],
+   "sfx": [
+    {
+     "name": "boom",
+     "at": 0.05,
+     "gain": 0.4
+    }
+   ],
+   "lines": [
+    {
+     "who": "camo",
+     "text": "Nobody has questions, Kevin.",
+     "delay": 0.4
+    }
+   ]
+  },
+  {
+   "shot": "E",
+   "music": "comedy",
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    {
+     "who": "stache",
+     "text": "Worth it for the donuts."
+    },
+    {
+     "who": "camo",
+     "text": "Every time."
+    }
+   ]
+  }
+ ],
+ "cta": [
+  "TAG THE GUY WHO",
+  "ASKS QUESTIONS AT 6:59"
+ ]
+}

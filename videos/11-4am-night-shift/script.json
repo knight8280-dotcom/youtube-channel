@@ -1,0 +1,187 @@
+{
+ "title": "Night Shift at 4 AM",
+ "frames": {
+  "A": {
+   "file": "a.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Night inside an industrial plant control room with a whiteboard covered in yellow caution tags, teal window blinds, desks with glowing monitors and charging two-way radios. a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots and a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers sit upright, alert and professional, focused on the monitors with coffee, determined. Comedic. No text, no words, no logos, no captions."
+  },
+  "B": {
+   "file": "b.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). 4 AM inside an industrial plant control room with a whiteboard covered in yellow caution tags, teal window blinds, desks with glowing monitors and charging two-way radios. a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots and a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers lie on the floor laughing uncontrollably with tears streaming down their faces, clutching their stomachs. Comedic. No text, no words, no logos, no captions."
+  },
+  "C": {
+   "file": "c.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). 4 AM in a dark industrial hallway. a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots stands frozen in front of a glowing vending machine with a blank zombie stare. Comedic. No text, no words, no logos, no captions."
+  },
+  "D": {
+   "file": "d.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Night inside an industrial plant control room with a whiteboard covered in yellow caution tags, teal window blinds, desks with glowing monitors and charging two-way radios. a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers gazes out the window at a glowing orange flare stack in the night sky, deep in thought, philosophical, moody lighting. a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots stands beside him looking out too. Comedic. No text, no words, no logos, no captions."
+  },
+  "E": {
+   "file": "e.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Morning inside an industrial plant control room with a whiteboard covered in yellow caution tags, teal window blinds, desks with glowing monitors and charging two-way radios. a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots and a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers sit perfectly upright with stiff, forced professional smiles as a cheerful female day-shift plant operator in her 30s with a ponytail, white hard hat and an orange high-visibility vest over a navy work shirt walks in the door. Comedic. No text, no words, no logos, no captions."
+  }
+ },
+ "beats": [
+  {
+   "shot": "B",
+   "dur": 2.6,
+   "music": "comedy",
+   "zoom": [
+    1.05,
+    1.12
+   ],
+   "texts": [
+    {
+     "style": "title",
+     "lines": [
+      "NIGHT SHIFT",
+      "AT 4 AM"
+     ],
+     "emoji": "🫠"
+    }
+   ]
+  },
+  {
+   "card": "8:00 PM",
+   "sub": "START OF SHIFT",
+   "color": "#7fd3ff",
+   "music": "none",
+   "dur": 1.3
+  },
+  {
+   "shot": "A",
+   "music": "chill",
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    {
+     "who": "camo",
+     "text": "Alright. Let's have a productive night."
+    },
+    {
+     "who": "stache",
+     "text": "Focused. Professional."
+    }
+   ]
+  },
+  {
+   "card": "4:00 AM",
+   "sub": "",
+   "color": "#b388ff",
+   "music": "none",
+   "dur": 1.2
+  },
+  {
+   "shot": "B",
+   "music": "fast",
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "lines": [
+    {
+     "who": "stache",
+     "text": "He said... pump."
+    },
+    {
+     "who": "camo",
+     "text": "Ha! Pump!"
+    }
+   ],
+   "texts": [
+    {
+     "style": "action",
+     "lines": [
+      "*nobody knows why",
+      "this is funny*"
+     ],
+     "after_line": 1,
+     "offset": 0.2,
+     "y": 1580
+    }
+   ],
+   "post": 1.2
+  },
+  {
+   "shot": "C",
+   "music": "none",
+   "zoom": [
+    1.05,
+    1.25
+   ],
+   "dur": 2.8,
+   "amb": [
+    {
+     "name": "room",
+     "gain": 0.05
+    }
+   ],
+   "texts": [
+    {
+     "style": "action",
+     "lines": [
+      "*has been staring at the",
+      "vending machine for 11 minutes*"
+     ],
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "shot": "D",
+   "music": "dreamy",
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    {
+     "who": "stache",
+     "text": "Do you think the flare gets lonely?"
+    },
+    {
+     "who": "camo",
+     "text": "Every night, man.",
+     "delay": 0.4
+    }
+   ]
+  },
+  {
+   "card": "6:45 AM",
+   "sub": "DAY SHIFT ARRIVES",
+   "color": "#ffb347",
+   "music": "none",
+   "dur": 1.3
+  },
+  {
+   "shot": "E",
+   "music": "comedy",
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "chip": {
+    "text": "☀️ DAY SHIFT",
+    "bg": "#ffd400",
+    "fg": "#111"
+   },
+   "lines": [
+    {
+     "who": "camo",
+     "text": "Quiet night. Nothing to report."
+    },
+    {
+     "who": "stache",
+     "text": "Very professional."
+    }
+   ]
+  }
+ ],
+ "cta": [
+  "TAG YOUR",
+  "4 AM PARTNER"
+ ]
+}

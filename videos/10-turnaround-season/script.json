@@ -1,0 +1,197 @@
+{
+ "title": "Turnaround Season",
+ "frames": {
+  "A": {
+   "file": "a.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). A huge industrial chemical plant swarming with hundreds of contractors in different colored hard hats, scaffolding covering every tower, cranes, chaos, bright daytime. Comedic. No text, no words, no logos, no captions."
+  },
+  "B": {
+   "file": "b.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Sunrise at an industrial plant covered in scaffolding. a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots and a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers, fresh, clean and optimistic, smile holding coffee cups. Comedic. No text, no words, no logos, no captions."
+  },
+  "C": {
+   "file": "c.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Night at an industrial plant covered in scaffolding. a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots and a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers are exhausted zombies leaning against the scaffolding, dark bags under their eyes, grimy, clothes torn, the mustached one asleep standing up. Comedic. No text, no words, no logos, no captions."
+  },
+  "D": {
+   "file": "d.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). An absurdly long line of contractors in hard hats waiting for a single portable toilet, the line stretching into the distance at an industrial plant. Near the back of the line, a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots does a pained, desperate dance. Comedic. No text, no words, no logos, no captions."
+  },
+  "E": {
+   "file": "e.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Inside an industrial plant control room with a whiteboard covered in yellow caution tags, teal window blinds, desks with glowing monitors and charging two-way radios. a plant manager in his 40s with neat gelled hair, a crisp white dress shirt, red tie and a spotless white hard hat beams with two thumbs up next to a wall calendar. In the foreground a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots and a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers scream in despair. Comedic. No text, no words, no logos, no captions."
+  }
+ },
+ "danger": [
+  "two",
+  "more",
+  "weeks!"
+ ],
+ "beats": [
+  {
+   "shot": "A",
+   "dur": 2.6,
+   "music": "comedy",
+   "zoom": [
+    1.05,
+    1.12
+   ],
+   "amb": [
+    {
+     "name": "crowd",
+     "gain": 0.1
+    }
+   ],
+   "texts": [
+    {
+     "style": "title",
+     "lines": [
+      "TURNAROUND",
+      "SEASON BE LIKE"
+     ],
+     "emoji": "🏗️"
+    }
+   ]
+  },
+  {
+   "shot": "B",
+   "flash": true,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "texts": [
+    {
+     "style": "label",
+     "lines": [
+      "DAY 1"
+     ],
+     "y": 260
+    }
+   ],
+   "lines": [
+    {
+     "who": "camo",
+     "text": "Thirty days of twelve-hour shifts. Easy money."
+    },
+    {
+     "who": "stache",
+     "text": "We got this."
+    }
+   ]
+  },
+  {
+   "shot": "C",
+   "flash": true,
+   "music": "tense",
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "texts": [
+    {
+     "style": "label",
+     "lines": [
+      "DAY 23"
+     ],
+     "y": 260,
+     "color": "#ff3b30"
+    }
+   ],
+   "lines": [
+    {
+     "who": "stache",
+     "text": "What day is it?"
+    },
+    {
+     "who": "camo",
+     "text": "Turnaround."
+    }
+   ]
+  },
+  {
+   "shot": "D",
+   "flash": true,
+   "music": "comedy",
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "amb": [
+    {
+     "name": "crowd",
+     "gain": 0.1
+    }
+   ],
+   "texts": [
+    {
+     "style": "label",
+     "lines": [
+      "THE PORTA-JOHN LINE"
+     ],
+     "y": 260
+    }
+   ],
+   "sfx": [
+    {
+     "name": "sad_trombone",
+     "at": 0.3,
+     "gain": 0.28
+    }
+   ],
+   "lines": [
+    {
+     "who": "camo",
+     "text": "I've been in this line since Tuesday.",
+     "delay": 1.6
+    }
+   ]
+  },
+  {
+   "shot": "E",
+   "flash": true,
+   "music": "none",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "texts": [
+    {
+     "style": "label",
+     "lines": [
+      "DAY 30"
+     ],
+     "y": 260
+    }
+   ],
+   "lines": [
+    {
+     "who": "mgr",
+     "text": "Great news! We're extending turnaround two more weeks!"
+    },
+    {
+     "who": "camo",
+     "text": "No!",
+     "delay": 0.4
+    },
+    {
+     "who": "stache",
+     "text": "No no no no!"
+    }
+   ],
+   "sfx": [
+    {
+     "name": "sting",
+     "after_line": 0,
+     "offset": 0.1,
+     "gain": 0.4
+    }
+   ],
+   "post": 0.8
+  }
+ ],
+ "cta": [
+  "TAG YOUR",
+  "TURNAROUND CREW"
+ ]
+}

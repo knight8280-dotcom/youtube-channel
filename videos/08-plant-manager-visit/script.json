@@ -1,0 +1,148 @@
+{
+ "title": "When the Plant Manager Visits",
+ "frames": {
+  "A": {
+   "file": "a.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Inside a messy an industrial plant control room with a whiteboard covered in yellow caution tags, teal window blinds, desks with glowing monitors and charging two-way radios: open pizza boxes, energy drink cans everywhere. a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots has his feet up on the desk; a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers eats a slice of pizza. Comedic. No text, no words, no logos, no captions."
+  },
+  "B": {
+   "file": "b.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Inside an industrial plant control room with a whiteboard covered in yellow caution tags, teal window blinds, desks with glowing monitors and charging two-way radios, total chaos: a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers frantically tosses pizza boxes in the trash, a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots frantically pulls on safety goggles and a hard hat, papers flying, motion blur, panic. Comedic. No text, no words, no logos, no captions."
+  },
+  "C": {
+   "file": "c.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). A spotless, shining an industrial plant control room with a whiteboard covered in yellow caution tags, teal window blinds, desks with glowing monitors and charging two-way radios. a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots and a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers stand at stiff attention wearing absurd amounts of safety gear: hard hats, face shields, goggles, ear muffs, gloves, harnesses and high-visibility vests. a plant manager in his 40s with neat gelled hair, a crisp white dress shirt, red tie and a spotless white hard hat walks in looking impressed. Comedic. No text, no words, no logos, no captions."
+  },
+  "D": {
+   "file": "d.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). The same an industrial plant control room with a whiteboard covered in yellow caution tags, teal window blinds, desks with glowing monitors and charging two-way radios seconds later: the manager is gone, safety gear piled on the floor, pizza back out, a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots and a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers collapsed back in their chairs with their feet up. Comedic. No text, no words, no logos, no captions."
+  }
+ },
+ "beats": [
+  {
+   "shot": "A",
+   "dur": 2.8,
+   "music": "chill",
+   "zoom": [
+    1.05,
+    1.1
+   ],
+   "texts": [
+    {
+     "style": "title",
+     "lines": [
+      "WHEN THE PLANT MANAGER",
+      "VISITS THE UNIT"
+     ],
+     "emoji": "👀"
+    }
+   ]
+  },
+  {
+   "shot": "A",
+   "zoom": [
+    1.15,
+    1.25
+   ],
+   "lines": [
+    {
+     "who": "board",
+     "text": "Heads up! Plant manager's walking over!"
+    }
+   ],
+   "post": 0.3
+  },
+  {
+   "shot": "B",
+   "flash": true,
+   "music": "fast",
+   "fx": [
+    "shake_small"
+   ],
+   "zoom": [
+    1.05,
+    1.15
+   ],
+   "lines": [
+    {
+     "who": "camo",
+     "text": "Hide the pizza!"
+    },
+    {
+     "who": "stache",
+     "text": "Where are my safety glasses?!"
+    }
+   ]
+  },
+  {
+   "shot": "C",
+   "flash": true,
+   "music": "none",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "chip": {
+    "text": "👔 MANAGEMENT",
+    "bg": "#8e44ff",
+    "fg": "#fff"
+   },
+   "sfx": [
+    {
+     "name": "ding",
+     "at": 0.1,
+     "gain": 0.3
+    }
+   ],
+   "lines": [
+    {
+     "who": "mgr",
+     "text": "Wow. Very impressive, gentlemen.",
+     "delay": 0.3
+    },
+    {
+     "who": "camo",
+     "text": "Safety first, sir."
+    }
+   ]
+  },
+  {
+   "shot": "D",
+   "flash": true,
+   "music": "comedy",
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    {
+     "who": "camo",
+     "text": "Is he gone?"
+    },
+    {
+     "who": "stache",
+     "text": "He's gone."
+    }
+   ],
+   "texts": [
+    {
+     "style": "stamp",
+     "lines": [
+      "TOTAL TIME OF",
+      "COMPLIANCE:",
+      "4 MINUTES"
+     ],
+     "after_line": 1,
+     "offset": 0.2,
+     "y": 760,
+     "size": 80
+    }
+   ],
+   "post": 1.4
+  }
+ ],
+ "cta": [
+  "TAG YOUR",
+  "UNIT'S PPE POLICE"
+ ]
+}

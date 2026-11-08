@@ -1,0 +1,42 @@
+{
+ "L01": {
+  "key": "7dd1be60e3ce",
+  "who": "camo",
+  "text": "It's a dry heat."
+ },
+ "L02": {
+  "key": "441f3458f867",
+  "who": "stache",
+  "text": "It's ninety-nine percent humidity."
+ },
+ "L03": {
+  "key": "c6e89deb0582",
+  "who": "camo",
+  "text": "Breakfast is served."
+ },
+ "L04": {
+  "key": "b20968667a78",
+  "who": "stache",
+  "text": "I can't feel my face."
+ },
+ "L05": {
+  "key": "17682d27ca2e",
+  "who": "camo",
+  "text": "Your mustache froze."
+ },
+ "L06": {
+  "key": "f88269f7fd8c",
+  "who": "camo",
+  "text": "Steam trace froze again!"
+ },
+ "L07": {
+  "key": "3fb0300b9fc4",
+  "who": "camo",
+  "text": "Turn the heat up!"
+ },
+ "L08": {
+  "key": "481b6a2725c3",
+  "who": "stache",
+  "text": "Turn the AC on!"
+ }
+}

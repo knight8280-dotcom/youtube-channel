@@ -1,0 +1,175 @@
+{
+ "title": "Shift Turnover",
+ "frames": {
+  "A": {
+   "file": "a.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Inside an industrial plant control room with a whiteboard covered in yellow caution tags, teal window blinds, desks with glowing monitors and charging two-way radios. In the doorway stands a cheerful female day-shift plant operator in her 30s with a ponytail, white hard hat and an orange high-visibility vest over a navy work shirt, with a huge sunny smile and a thumbs up. Through the big window behind her the process unit is clearly in trouble: black smoke billowing, a flare roaring, orange flashing lights. In the foreground two operators sit in black mesh office chairs seen from behind: one in a camo trucker hat and camo pullover, one in a black cap and light blue work shirt. Comedic. No text, no words, no logos, no captions."
+  },
+  "B": {
+   "file": "b.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Close two-shot inside an industrial plant control room with a whiteboard covered in yellow caution tags, teal window blinds, desks with glowing monitors and charging two-way radios. Two operators sitting in black mesh office chairs squint with deep suspicion, side-eye, one eyebrow raised. LEFT: a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots. RIGHT: a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers. Comedic. No text, no words, no logos, no captions."
+  },
+  "C": {
+   "file": "c.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Close-up of an industrial plant control board: a whole wall of computer monitors and panels covered in flashing red and yellow alarm boxes, blinking warning lights everywhere, absurdly many alarms, lit up like a Christmas tree, dark room. Comedic. No text, no words, no logos, no captions."
+  },
+  "D": {
+   "file": "d.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). a cheerful female day-shift plant operator in her 30s with a ponytail, white hard hat and an orange high-visibility vest over a navy work shirt sprinting out of a plant gate toward the parking lot at golden sunset, lunchbox in hand, ponytail flying, a big cartoon dust cloud behind her, joyful face, extreme speed. Comedic. No text, no words, no logos, no captions."
+  },
+  "E": {
+   "file": "e.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Night inside an industrial plant control room with a whiteboard covered in yellow caution tags, teal window blinds, desks with glowing monitors and charging two-way radios. Two operators both facepalming at the same time, slumped in their office chairs. LEFT: a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots. RIGHT: a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers. Comedic. No text, no words, no logos, no captions."
+  }
+ },
+ "danger": [
+  "2019."
+ ],
+ "beats": [
+  {
+   "shot": "A",
+   "dur": 2.6,
+   "zoom": [
+    1.05,
+    1.12
+   ],
+   "music": "comedy",
+   "texts": [
+    {
+     "style": "title",
+     "lines": [
+      "SHIFT TURNOVER",
+      "BE LIKE"
+     ],
+     "emoji": "🙃"
+    }
+   ]
+  },
+  {
+   "shot": "A",
+   "flash": true,
+   "zoom": [
+    1.3,
+    1.45
+   ],
+   "cx": [
+    0.5,
+    0.5
+   ],
+   "cy": [
+    0.3,
+    0.32
+   ],
+   "chip": {
+    "text": "☀️ DAY SHIFT",
+    "bg": "#ffd400",
+    "fg": "#111"
+   },
+   "lines": [
+    {
+     "who": "day",
+     "text": "Everything's good! Nothing to report!"
+    }
+   ]
+  },
+  {
+   "shot": "B",
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "cy": [
+    0.4,
+    0.38
+   ],
+   "lines": [
+    {
+     "who": "stache",
+     "text": "Then why is the board lit up like a Christmas tree?"
+    }
+   ]
+  },
+  {
+   "shot": "C",
+   "fx": [
+    "alarm"
+   ],
+   "zoom": [
+    1.0,
+    1.15
+   ],
+   "amb": [
+    {
+     "name": "beeps",
+     "gain": 0.08
+    }
+   ],
+   "lines": [
+    {
+     "who": "day",
+     "text": "Oh, those? Those have been in alarm since 2019."
+    }
+   ]
+  },
+  {
+   "shot": "D",
+   "flash": true,
+   "fx": [
+    "shake_small"
+   ],
+   "music": "fast",
+   "zoom": [
+    1.05,
+    1.2
+   ],
+   "min": 2.0,
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0.3,
+     "gain": 0.4
+    }
+   ],
+   "lines": [
+    {
+     "who": "day",
+     "text": "Okay, bye!"
+    }
+   ]
+  },
+  {
+   "shot": "E",
+   "music": "comedy",
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    {
+     "who": "camo",
+     "text": "She's gone."
+    },
+    {
+     "who": "stache",
+     "text": "And she took the good radio."
+    }
+   ],
+   "texts": [
+    {
+     "style": "note",
+     "header": "DAY SHIFT LOG:",
+     "lines": [
+      "all good :)"
+     ],
+     "after_line": 1,
+     "offset": 0.2,
+     "y": 860
+    }
+   ]
+  }
+ ],
+ "cta": [
+  "TAG YOUR",
+  "DAY SHIFT"
+ ]
+}

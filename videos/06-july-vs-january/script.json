@@ -1,0 +1,226 @@
+{
+ "title": "Rounds: July vs January",
+ "frames": {
+  "A": {
+   "file": "a.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). An industrial chemical plant under a blazing summer sun, heat waves shimmering off the pipes. Two operators in white hard hats doing rounds, drenched in sweat, wilting, one fanning himself with a clipboard. LEFT: a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots. RIGHT: a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers. Comedic. No text, no words, no logos, no captions."
+  },
+  "B": {
+   "file": "b.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Summer heat in an industrial plant. a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots fries an egg on a hot steel steam pipe with a big proud grin while a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers watches in disbelief, both dripping sweat. Comedic. No text, no words, no logos, no captions."
+  },
+  "C": {
+   "file": "c.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). The same industrial plant in a freezing winter: snow, ice and icicles everywhere. Two operators bundled in heavy jackets and beanies under hard hats shiver, frosty breath; the mustached one has his mustache frozen solid with little icicles. LEFT: a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots. RIGHT: a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers. Comedic. No text, no words, no logos, no captions."
+  },
+  "D": {
+   "file": "d.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Winter night in an industrial plant, snow falling. Two operators in heavy jackets and hard hats whack a valve encased in thick ice with a big hammer, ice shards flying. One wears a camo trucker hat under his hard hat, the other has a thin mustache. Comedic. No text, no words, no logos, no captions."
+  },
+  "E": {
+   "file": "e.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Inside an industrial plant control room with a whiteboard covered in yellow caution tags, teal window blinds, desks with glowing monitors and charging two-way radios. a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots and a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers fight over a wall thermostat, both grabbing the dial in a comedic tug-of-war, angry faces. Comedic. No text, no words, no logos, no captions."
+  }
+ },
+ "beats": [
+  {
+   "shot": "A",
+   "dur": 3.0,
+   "music": "comedy",
+   "fx": [
+    "heat"
+   ],
+   "zoom": [
+    1.05,
+    1.1
+   ],
+   "texts": [
+    {
+     "style": "title",
+     "lines": [
+      "ROUNDS IN JULY",
+      "vs",
+      "ROUNDS IN JANUARY"
+     ],
+     "emoji": "🥵🥶"
+    }
+   ]
+  },
+  {
+   "shot": "A",
+   "flash": true,
+   "fx": [
+    "heat"
+   ],
+   "zoom": [
+    1.15,
+    1.3
+   ],
+   "chip": {
+    "text": "☀️ JULY",
+    "bg": "#ff8a00",
+    "fg": "#111"
+   },
+   "lines": [
+    {
+     "who": "camo",
+     "text": "It's a dry heat."
+    },
+    {
+     "who": "stache",
+     "text": "It's ninety-nine percent humidity."
+    }
+   ],
+   "texts": [
+    {
+     "style": "stamp",
+     "lines": [
+      "107°F"
+     ],
+     "at": 0.3,
+     "y": 560,
+     "size": 130,
+     "rot": 0.08
+    }
+   ]
+  },
+  {
+   "shot": "B",
+   "fx": [
+    "heat"
+   ],
+   "zoom": [
+    1.05,
+    1.18
+   ],
+   "amb": [
+    {
+     "name": "sizzle",
+     "gain": 0.12
+    }
+   ],
+   "lines": [
+    {
+     "who": "camo",
+     "text": "Breakfast is served.",
+     "delay": 0.4
+    }
+   ]
+  },
+  {
+   "shot": "C",
+   "flash": true,
+   "fx": [
+    "snow"
+   ],
+   "zoom": [
+    1.05,
+    1.2
+   ],
+   "chip": {
+    "text": "❄️ JANUARY",
+    "bg": "#7fd3ff",
+    "fg": "#111"
+   },
+   "amb": [
+    {
+     "name": "wind",
+     "gain": 0.14
+    }
+   ],
+   "lines": [
+    {
+     "who": "stache",
+     "text": "I can't feel my face."
+    },
+    {
+     "who": "camo",
+     "text": "Your mustache froze."
+    }
+   ],
+   "texts": [
+    {
+     "style": "stamp",
+     "lines": [
+      "8°F"
+     ],
+     "at": 0.3,
+     "y": 560,
+     "size": 130,
+     "color": "#2f80ff",
+     "rot": 0.08
+    }
+   ]
+  },
+  {
+   "shot": "D",
+   "fx": [
+    "snow",
+    "shake_small"
+   ],
+   "zoom": [
+    1.05,
+    1.15
+   ],
+   "amb": [
+    {
+     "name": "wind",
+     "gain": 0.12
+    }
+   ],
+   "sfx": [
+    {
+     "name": "clang",
+     "at": 0.25,
+     "gain": 0.3
+    },
+    {
+     "name": "clang",
+     "at": 0.9,
+     "gain": 0.3
+    }
+   ],
+   "lines": [
+    {
+     "who": "camo",
+     "text": "Steam trace froze again!",
+     "delay": 0.9
+    }
+   ]
+  },
+  {
+   "shot": "E",
+   "flash": true,
+   "music": "fast",
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "texts": [
+    {
+     "style": "label",
+     "lines": [
+      "ALSO OPERATORS:"
+     ],
+     "at": 0.1,
+     "y": 260
+    }
+   ],
+   "lines": [
+    {
+     "who": "camo",
+     "text": "Turn the heat up!"
+    },
+    {
+     "who": "stache",
+     "text": "Turn the AC on!",
+     "say": "Turn the A. C. on!"
+    }
+   ]
+  }
+ ],
+ "cta": [
+  "TAG YOUR",
+  "THERMOSTAT ENEMY"
+ ]
+}

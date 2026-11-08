@@ -1,0 +1,220 @@
+{
+ "title": "Work Orders",
+ "frames": {
+  "A": {
+   "file": "a.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Inside an industrial plant control room with a whiteboard covered in yellow caution tags, teal window blinds, desks with glowing monitors and charging two-way radios. a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots sits at a computer typing with one finger, smug and proud of himself, face lit by the monitor. Comedic. No text, no words, no logos, no captions."
+  },
+  "B": {
+   "file": "b.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Daytime inside an industrial pump house. a gruff big-bellied maintenance mechanic in his 50s with a gray goatee, scuffed white hard hat and grease-stained gray coveralls kneels next to a large quiet blue industrial pump with his ear pressed against it, puzzled, shrugging with one hand. Comedic. No text, no words, no logos, no captions."
+  },
+  "C": {
+   "file": "c.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Night inside an industrial pump house. A large blue industrial pump shaking violently, screeching, sparks and steam spraying from it. Two operators in white hard hats cover their ears with pained faces. LEFT: a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots. RIGHT: a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers. Comedic. No text, no words, no logos, no captions."
+  },
+  "D": {
+   "file": "d.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Bright morning inside an industrial pump house. a gruff big-bellied maintenance mechanic in his 50s with a gray goatee, scuffed white hard hat and grease-stained gray coveralls stands next to a calm, quiet blue pump holding a coffee thermos, relaxed, smiling and shrugging. Comedic. No text, no words, no logos, no captions."
+  },
+  "E": {
+   "file": "e.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Inside an industrial pump house. Two operators in white hard hats stare straight at the camera with dead-eyed, totally unimpressed blank expressions. LEFT: a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots. RIGHT: a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers. Comedic. No text, no words, no logos, no captions."
+  }
+ },
+ "danger": [
+  "night."
+ ],
+ "beats": [
+  {
+   "shot": "A",
+   "dur": 2.6,
+   "music": "comedy",
+   "zoom": [
+    1.05,
+    1.1
+   ],
+   "texts": [
+    {
+     "style": "title",
+     "lines": [
+      "HOW OPERATORS",
+      "WRITE WORK ORDERS"
+     ],
+     "emoji": "✍️"
+    }
+   ]
+  },
+  {
+   "shot": "A",
+   "flash": true,
+   "zoom": [
+    1.2,
+    1.35
+   ],
+   "cy": [
+    0.35,
+    0.35
+   ],
+   "lines": [
+    {
+     "who": "camo",
+     "text": "Pump's making a noise. Fix it. Submit."
+    }
+   ],
+   "texts": [
+    {
+     "style": "note",
+     "header": "WORK ORDER #4471",
+     "lines": [
+      "PUMP MAKING",
+      "NOISE. FIX."
+     ],
+     "size": 96,
+     "at_line": 0,
+     "offset": 0.4,
+     "y": 900
+    }
+   ]
+  },
+  {
+   "shot": "B",
+   "flash": true,
+   "zoom": [
+    1.05,
+    1.15
+   ],
+   "chip": {
+    "text": "🔧 MAINTENANCE",
+    "bg": "#ff8a00",
+    "fg": "#111"
+   },
+   "lines": [
+    {
+     "who": "maint",
+     "text": "Ran it for five minutes. Could not duplicate."
+    }
+   ],
+   "texts": [
+    {
+     "style": "stamp",
+     "lines": [
+      "CLOSED:",
+      "COULD NOT",
+      "DUPLICATE"
+     ],
+     "after_line": 0,
+     "offset": 0.1,
+     "y": 820
+    }
+   ],
+   "post": 1.2
+  },
+  {
+   "card": "2:00 AM",
+   "sub": "THAT NIGHT...",
+   "music": "none"
+  },
+  {
+   "shot": "C",
+   "fx": [
+    "shake",
+    "sparks",
+    "steam"
+   ],
+   "music": "action",
+   "zoom": [
+    1.05,
+    1.15
+   ],
+   "sfx": [
+    {
+     "name": "bang",
+     "at": 0.05,
+     "gain": 0.45
+    }
+   ],
+   "amb": [
+    {
+     "name": "hiss",
+     "gain": 0.18
+    }
+   ],
+   "lines": [
+    {
+     "who": "stache",
+     "text": "Is this loud enough to duplicate?!",
+     "delay": 0.4
+    }
+   ]
+  },
+  {
+   "card": "8:00 AM",
+   "sub": "THE NEXT MORNING",
+   "color": "#ffb347",
+   "music": "none"
+  },
+  {
+   "shot": "D",
+   "music": "comedy",
+   "zoom": [
+    1.05,
+    1.12
+   ],
+   "amb": [
+    {
+     "name": "birds",
+     "gain": 0.06
+    }
+   ],
+   "lines": [
+    {
+     "who": "maint",
+     "text": "Sounds fine to me."
+    }
+   ]
+  },
+  {
+   "shot": "E",
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    {
+     "who": "camo",
+     "text": "It only does it at night."
+    },
+    {
+     "who": "maint",
+     "text": "Then put in a work order."
+    }
+   ],
+   "sfx": [
+    {
+     "name": "sad_trombone",
+     "after_line": 1,
+     "offset": 0.15,
+     "gain": 0.3
+    }
+   ],
+   "texts": [
+    {
+     "style": "label",
+     "lines": [
+      "THE CYCLE",
+      "CONTINUES"
+     ],
+     "after_line": 1,
+     "offset": 0.1,
+     "y": 300
+    }
+   ],
+   "post": 1.6
+  }
+ ],
+ "cta": [
+  "TAG A MECHANIC WHO",
+  "\"COULD NOT DUPLICATE\""
+ ]
+}

@@ -1,0 +1,14 @@
+{
+  "_comment": "Kokoro voice for each recurring character. pitch < 1 lowers the voice, > 1 raises it (duration is kept). filter: radio | phone.",
+  "camo":   {"name": "Camo",            "voice": "am_michael", "speed": 1.00, "pitch": 0.93},
+  "stache": {"name": "Stache",          "voice": "am_puck",    "speed": 0.96, "pitch": 1.00},
+  "maint":  {"name": "Maintenance",     "voice": "am_fenrir",  "speed": 0.92, "pitch": 0.86},
+  "eng":    {"name": "Engineer",        "voice": "am_echo",    "speed": 1.10, "pitch": 1.12},
+  "mgr":    {"name": "Plant manager",   "voice": "am_eric",    "speed": 0.98, "pitch": 1.00},
+  "day":    {"name": "Day shift",       "voice": "af_heart",   "speed": 1.05, "pitch": 1.00},
+  "board":  {"name": "Board operator",  "voice": "am_adam",    "speed": 1.06, "pitch": 0.95, "filter": "radio"},
+  "new":    {"name": "New hire",        "voice": "am_liam",    "speed": 1.14, "pitch": 1.12},
+  "narr":   {"name": "Narrator",        "voice": "am_onyx",    "speed": 0.88, "pitch": 0.86},
+  "angel":  {"name": "Angel Camo",      "voice": "am_michael", "speed": 1.00, "pitch": 1.22},
+  "devil":  {"name": "Devil Camo",      "voice": "am_michael", "speed": 0.94, "pitch": 0.74}
+}

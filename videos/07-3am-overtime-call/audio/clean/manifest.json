@@ -1,0 +1,47 @@
+{
+ "L01": {
+  "key": "9a371fcdceaf",
+  "who": "angel",
+  "text": "Don't answer. You're on your days off."
+ },
+ "L02": {
+  "key": "7f922858acc1",
+  "who": "devil",
+  "text": "It's double time."
+ },
+ "L03": {
+  "key": "01f753f3cfa1",
+  "who": "angel",
+  "text": "Okay, that's fair."
+ },
+ "L04": {
+  "key": "2621737fea9f",
+  "who": "board",
+  "text": "Hey bud, any chance you can come in?"
+ },
+ "L05": {
+  "key": "044a5d239325",
+  "who": "camo",
+  "text": "How long?"
+ },
+ "L06": {
+  "key": "6db2c8aa0748",
+  "who": "board",
+  "text": "Sixteen hours."
+ },
+ "L07": {
+  "key": "cff9e3ef11fe",
+  "who": "camo",
+  "text": "On my way!"
+ },
+ "L08": {
+  "key": "07ef1ce8fbaa",
+  "who": "stache",
+  "text": "They called you too?"
+ },
+ "L09": {
+  "key": "f1d491419aa4",
+  "who": "camo",
+  "text": "They called everybody."
+ }
+}

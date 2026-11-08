@@ -1,0 +1,37 @@
+{
+ "L01": {
+  "key": "b05dd19503fa",
+  "who": "board",
+  "text": "Heads up! Plant manager's walking over!"
+ },
+ "L02": {
+  "key": "804aededaec6",
+  "who": "camo",
+  "text": "Hide the pizza!"
+ },
+ "L03": {
+  "key": "43167542ef80",
+  "who": "stache",
+  "text": "Where are my safety glasses?!"
+ },
+ "L04": {
+  "key": "8053d37893e0",
+  "who": "mgr",
+  "text": "Wow. Very impressive, gentlemen."
+ },
+ "L05": {
+  "key": "07d35862525e",
+  "who": "camo",
+  "text": "Safety first, sir."
+ },
+ "L06": {
+  "key": "5c30342e9c9d",
+  "who": "camo",
+  "text": "Is he gone?"
+ },
+ "L07": {
+  "key": "fa38f999b68c",
+  "who": "stache",
+  "text": "He's gone."
+ }
+}

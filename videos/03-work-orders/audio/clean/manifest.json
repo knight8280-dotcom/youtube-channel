@@ -1,0 +1,32 @@
+{
+ "L01": {
+  "key": "06a89f77bf52",
+  "who": "camo",
+  "text": "Pump's making a noise. Fix it. Submit."
+ },
+ "L02": {
+  "key": "28a85dd26f08",
+  "who": "maint",
+  "text": "Ran it for five minutes. Could not duplicate."
+ },
+ "L03": {
+  "key": "407d6a99fba6",
+  "who": "stache",
+  "text": "Is this loud enough to duplicate?!"
+ },
+ "L04": {
+  "key": "3446f80d9c41",
+  "who": "maint",
+  "text": "Sounds fine to me."
+ },
+ "L05": {
+  "key": "d83a3343abb7",
+  "who": "camo",
+  "text": "It only does it at night."
+ },
+ "L06": {
+  "key": "1bfb6e21e458",
+  "who": "maint",
+  "text": "Then put in a work order."
+ }
+}

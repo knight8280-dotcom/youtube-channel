@@ -1,0 +1,189 @@
+{
+ "title": "The 3 AM Overtime Call",
+ "frames": {
+  "A": {
+   "file": "a.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Night, a dark blue bedroom at home. a stocky young plant operator with a round face, light stubble and brown hair, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots is fast asleep in bed under a camo blanket, snoring, mouth open. His phone glows and vibrates on the nightstand. Comedic. No text, no words, no logos, no captions."
+  },
+  "B": {
+   "file": "b.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Night, dark bedroom. A stocky young man with a round face and light stubble sits up in bed groggy under a camo blanket. On one shoulder stands a tiny angel version of himself with a halo, white robe and little wings wearing a camo trucker hat; on the other shoulder a tiny red devil version of himself with horns and a pitchfork wearing a camo trucker hat. Comedic. No text, no words, no logos, no captions."
+  },
+  "C": {
+   "file": "c.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Night, dark bedroom lit only by a phone screen. A stocky young man with a round face, light stubble and messy brown hair holds the phone to his ear in bed with half-closed sleepy eyes. Comedic. No text, no words, no logos, no captions."
+  },
+  "D": {
+   "file": "d.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Night outside a small house. a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots, fully dressed for work with a white hard hat, bursts out of his front door at cartoon speed with a coffee thermos and car keys, motion blur and speed lines, determined grin. Comedic. No text, no words, no logos, no captions."
+  },
+  "E": {
+   "file": "e.jpg",
+   "prompt": "Vertical 9:16 still from a glossy 3D animated family movie (modern CGI animation studio style, big expressive eyes, stylized proportions, soft subsurface skin, highly detailed render, cinematic lighting). Inside an industrial plant control room with a whiteboard covered in yellow caution tags, teal window blinds, desks with glowing monitors and charging two-way radios at 4 AM. a lean young plant operator with a thin mustache and dark brown hair, black baseball cap, light blue button-up work shirt with sleeves rolled up, colorful tattoo sleeve on his forearm, black smartwatch, navy work pants and white sneakers sits in a black mesh office chair with a coffee cup, looking up tiredly at a stocky young plant operator with a round face, light stubble and brown hair, wearing a camo trucker hat with tan mesh back and a dark leather American flag patch, an olive-brown camo quarter-zip pullover with a black two-way radio clipped on his chest, navy work pants and muddy brown work boots walking in the door. Comedic. No text, no words, no logos, no captions."
+  }
+ },
+ "beats": [
+  {
+   "shot": "A",
+   "dur": 2.6,
+   "music": "none",
+   "zoom": [
+    1.05,
+    1.1
+   ],
+   "amb": [
+    {
+     "name": "snore",
+     "gain": 0.14
+    }
+   ],
+   "texts": [
+    {
+     "style": "title",
+     "lines": [
+      "WHEN THE PLANT",
+      "CALLS AT 3 AM"
+     ],
+     "emoji": "📞"
+    }
+   ]
+  },
+  {
+   "shot": "A",
+   "zoom": [
+    1.15,
+    1.3
+   ],
+   "cy": [
+    0.55,
+    0.6
+   ],
+   "dur": 3.0,
+   "sfx": [
+    {
+     "name": "phone_ring",
+     "at": 0.1,
+     "gain": 0.3
+    }
+   ],
+   "texts": [
+    {
+     "style": "phone",
+     "name": "THE PLANT",
+     "sub": "incoming call...",
+     "at": 0.1,
+     "y": 620
+    }
+   ]
+  },
+  {
+   "shot": "B",
+   "flash": true,
+   "music": "dreamy",
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    {
+     "who": "angel",
+     "text": "Don't answer. You're on your days off."
+    },
+    {
+     "who": "devil",
+     "text": "It's double time."
+    },
+    {
+     "who": "angel",
+     "text": "Okay, that's fair.",
+     "delay": 0.3
+    }
+   ]
+  },
+  {
+   "shot": "C",
+   "music": "none",
+   "zoom": [
+    1.05,
+    1.15
+   ],
+   "lines": [
+    {
+     "who": "board",
+     "text": "Hey bud, any chance you can come in?",
+     "filter": "phone"
+    },
+    {
+     "who": "camo",
+     "text": "How long?"
+    },
+    {
+     "who": "board",
+     "text": "Sixteen hours.",
+     "filter": "phone"
+    }
+   ]
+  },
+  {
+   "shot": "D",
+   "flash": true,
+   "music": "fast",
+   "fx": [
+    "shake_small"
+   ],
+   "zoom": [
+    1.05,
+    1.2
+   ],
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0.2,
+     "gain": 0.4
+    }
+   ],
+   "lines": [
+    {
+     "who": "camo",
+     "text": "On my way!",
+     "delay": 0.3
+    }
+   ],
+   "texts": [
+    {
+     "style": "banner",
+     "lines": [
+      "DOUBLE TIME",
+      "HITS DIFFERENT"
+     ],
+     "after_line": 0,
+     "offset": 0.2,
+     "y": 330
+    }
+   ],
+   "post": 1.4
+  },
+  {
+   "shot": "E",
+   "music": "comedy",
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    {
+     "who": "stache",
+     "text": "They called you too?"
+    },
+    {
+     "who": "camo",
+     "text": "They called everybody."
+    }
+   ]
+  }
+ ],
+ "cta": [
+  "TAG SOMEONE WHO",
+  "NEVER SAYS NO TO OT"
+ ]
+}

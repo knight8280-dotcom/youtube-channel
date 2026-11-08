@@ -1,0 +1,37 @@
+{
+ "L01": {
+  "key": "832652fbe69e",
+  "who": "stache",
+  "text": "Board to outside. Open the valve."
+ },
+ "L02": {
+  "key": "ed5bffd48fae",
+  "who": "camo",
+  "text": "Which valve?"
+ },
+ "L03": {
+  "key": "76336070ae2d",
+  "who": "stache",
+  "text": "The one by the pump."
+ },
+ "L04": {
+  "key": "089f66a45b52",
+  "who": "camo",
+  "text": "Which pump?"
+ },
+ "L05": {
+  "key": "7e749291f8ed",
+  "who": "stache",
+  "text": "The one by the valve."
+ },
+ "L06": {
+  "key": "5fcf3fd44b1e",
+  "who": "stache",
+  "text": "Mmph... pump... mmph... go."
+ },
+ "L07": {
+  "key": "2e4c93535362",
+  "who": "camo",
+  "text": "Copy."
+ }
+}
